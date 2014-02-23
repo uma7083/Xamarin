@@ -1,0 +1,3 @@
+C:\Visual-Studio-2012\Projects\Android\ZConnect\Sample.Android\bin\Debug\ZxingSharp.MonoForAndroid.Sample.dll
+C:\Visual-Studio-2012\Projects\Lib\Build\Debug\monodroid\zxing.monoandroid.dll
+C:\Visual-Studio-2012\Projects\Lib\Build\Debug\monodroid\ZXing.Net.Mobile.dll
